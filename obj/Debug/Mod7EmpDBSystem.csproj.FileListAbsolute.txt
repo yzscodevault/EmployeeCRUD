@@ -1,0 +1,5 @@
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Mod7EmpDBSystem\obj\Debug\Mod7EmpDBSystem.csproj.AssemblyReference.cache
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Mod7EmpDBSystem\obj\Debug\Mod7EmpDBSystem.EmployeeForm.resources
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Mod7EmpDBSystem\obj\Debug\Mod7EmpDBSystem.Properties.Resources.resources
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Mod7EmpDBSystem\obj\Debug\Mod7EmpDBSystem.csproj.GenerateResource.cache
+C:\Users\yang\Desktop\PCAD5\Projects\Week6\Mod7EmpDBSystem\obj\Debug\Mod7EmpDBSystem.csproj.CoreCompileInputs.cache

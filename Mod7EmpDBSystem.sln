@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod7EmpDBSystem", "Mod7EmpDBSystem.csproj", "{37D29FFD-FBC9-4A31-9222-9B0EE44D8200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D29FFD-FBC9-4A31-9222-9B0EE44D8200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D29FFD-FBC9-4A31-9222-9B0EE44D8200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D29FFD-FBC9-4A31-9222-9B0EE44D8200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D29FFD-FBC9-4A31-9222-9B0EE44D8200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A95186A3-946A-4347-9400-F2EAF160E451}
+	EndGlobalSection
+EndGlobal
